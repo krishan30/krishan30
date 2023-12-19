@@ -1,7 +1,7 @@
 <h1 align="center">
   <a target="_blank">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  </a>Hey 👋, I'm , I am Krishan Chavinda!/&gt;
+  </a>Hey 👋, I'm ,Krishan Chavinda!/&gt;
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <a target="_blank">
 <!--     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="40px" /> -->
@@ -37,15 +37,12 @@ Connect with me:
  <a href="mailto:krishanchavinda@gmail.com" target="blank">
       <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Imalsha Liyanage" height="30" width="40"/>
       </a>
-  <a href="https://medium.com/@ImalshaLiyanage">
+  <a href="https://medium.com/@krishanchavinda">
     <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Imalsha Liyanage|Medium" height="30" width="30"/>
   </a>
- <a href="https://twitter.com/ImalshaLiyanage?t=txJfeTRfROWu7Femk1F4_Q&s=09" target="_blank">
+ <a href="https://twitter.com/krishan_DarkX" target="_blank">
   <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Imalsha Liyanage | Twitter" height="30" width="40" />
 </a> 
- <a href="https://stackoverflow.com/users/17995557/imalsha-liyanage?tab=profile" target="_blank">
- <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" height="30" width="30" />
- </a>
 </p>
 
 
@@ -100,13 +97,13 @@ Connect with me:
 <td width="50%" align="center">
 
 
-  ![](https://github-readme-stats.vercel.app/api?username=Imalsha99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Imalsha99&theme=radical&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api?username=krishan30&show_icons=true&bg_color=00000000)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=krishan30&theme=radical&hide_border=false)
  
  </td>
   <td width="50%" align="center">
  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imalsha99&langs_count_private=true&theme=radical&card_width=445)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan30&langs_count_private=true&theme=radical&card_width=445)
   </td>
 </tr>
 </table>
@@ -121,6 +118,6 @@ Connect with me:
 <div align="center">
 <h3 align="center">Visitor Count: </h3> 
 
-![Visitor Count](https://profile-counter.glitch.me/Imalsha99/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/krishan30/count.svg)
 
  </div>
