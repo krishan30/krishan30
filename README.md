@@ -37,10 +37,10 @@ Connect with me:
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="Krishan Chavinda" height="60" width="60" /></a>
  <a href="mailto:krishanchavinda@gmail.com" target="blank">
-      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Krishan Chavinda" height="40" width="40"/>
+      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Krishan Chavinda" height="30" width="40"/>
       </a>
   <a href="https://medium.com/@krishanchavinda">
-    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Krishan Chavinda|Medium" height="60" width="60"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Krishan Chavinda|Medium" height="60" width="50"/>
   </a>
  <a href="https://twitter.com/krishan_DarkX" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Krishan Chavinda | Twitter" height="60" width="60" />
@@ -50,7 +50,7 @@ Connect with me:
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300"  src="https://octodex.github.com/images/inspectocat.jpg"></a>
 <br/>
 
 <h3>Languages and Tools:</h3>
