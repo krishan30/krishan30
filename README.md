@@ -31,19 +31,19 @@ Connect with me:
 </h3>
 <p align="left">
   <a href="www.linkedin.com/in/krishan-chavinda/" target="blank"><img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="Krishan Chavinda" height="30" width="40" /></a>
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      alt="Krishan Chavinda" height="60" width="60" /></a>
   <a href="https://www.hackerrank.com/profile/krishan_chavinda" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Krishan Chavinda" height="30" width="40" /></a>
+      alt="Krishan Chavinda" height="60" width="60" /></a>
  <a href="mailto:krishanchavinda@gmail.com" target="blank">
-      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Krishan Chavinda" height="30" width="40"/>
+      <img align="center" src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" alt="Krishan Chavinda" height="40" width="40"/>
       </a>
   <a href="https://medium.com/@krishanchavinda">
-    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Krishan Chavinda|Medium" height="30" width="30"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Krishan Chavinda|Medium" height="60" width="60"/>
   </a>
  <a href="https://twitter.com/krishan_DarkX" target="_blank">
-  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Krishan Chavinda | Twitter" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Krishan Chavinda | Twitter" height="60" width="60" />
 </a> 
 </p>
 
