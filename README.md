@@ -74,13 +74,13 @@ Connect with me:
 <tr border="0">
 <td width="50%" align="center">
 
-  ![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishan30&show_icons=true&theme=dark&count_private=true)
-  ![Krishan's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=krishan30&theme=dark&hide_border=false)
+  ![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishan30&show_icons=true&theme=dark&count_private=true&hide_border=true)
+  ![Krishan's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=krishan30&theme=dark&hide_border=true)
  
  </td>
   <td width="50%" align="center">
  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan30&langs_count_private=true&theme=dark&card_width=445)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishan30&langs_count_private=true&theme=dark&card_width=445&hide_border=true)
   </td>
 </tr>
 </table>
