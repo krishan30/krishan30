@@ -60,7 +60,7 @@ Connect with me:
 <tr border="0">
 <td width="50%" align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,py,flask,git,github,githubactions,docker,java,maven,mongodb,mysql,sqlite,idea,vscode,nodejs,php,postman,elasticsearch,html,css,js,latex&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,py,flask,git,github,githubactions,docker,java,maven,mongodb,mysql,sqlite,idea,vscode,nodejs,php,postman,elasticsearch,html,css,js,react,latex&perline=8)](https://skillicons.dev)
  </td>
 </tr>
 </table>
