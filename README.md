@@ -73,9 +73,9 @@ Connect with me:
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=krishan30&show_icons=true&bg_color=00000000)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=krishan30&theme=radical&hide_border=false)
+
+  ![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishan30&show_icons=true&theme=react&count_private=true)
+  ![Krishan's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=krishan30&theme=radical&hide_border=false)
  
  </td>
   <td width="50%" align="center">
